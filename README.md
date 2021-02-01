@@ -5,11 +5,11 @@ My personal note about cutest flighless birds on earth. Curated list of informat
 ## List of habitats
 - [Antarctica](#antarctica)
 - [Argentina & Chile](#argentina--chile)
-- [Australia](#australia)
-- [Falklands Islands](#falklands-islands)
-- [Galapagos Islands](#galapagos-islands)
-- [South Africa](#south-africa)
-- [South Georgia](#south-georgia)
+- [Australia](#australia-)
+- [Falklands Islands](#falklands-islands-)
+- [Galapagos Islands](#galapagos-islands-)
+- [South Africa](#south-africa-)
+- [South Georgia](#south-georgia-)
 
 
 ## Antarctica
