@@ -3,13 +3,13 @@
 My personal note about cutest flighless birds on earth. Curated list of information about where to find penguins in their natural habitats and some information about how to visit them.
 
 ## List of habitats
-- Antarctica
-- Argentina & Chile
-- Australia
-- Falklands Islands
-- Galapagos Islands
-- South Africa
-- South Georgia
+- [Antarctica](#antarctica)
+- [Argentina & Chile](#argentina--chile)
+- [Australia](#australia)
+- [Falklands Islands](#falklands-islands)
+- [Galapagos Islands](#galapagos-islands)
+- [South Africa](#south-africa)
+- [South Georgia](#south-georgia)
 
 
 ## Antarctica
