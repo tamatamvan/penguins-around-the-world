@@ -24,7 +24,7 @@ My personal note about cutest flighless birds on earth. Curated list of informat
 ![Map of places to see penguins in Patagonia](https://swoop-patagonia.imgix.net/SWO_5_NMAP_ALL_Where-can-I-see-penguins-in-Patagonia.png?auto=format,enhance,compress&fit=crop&q=90)
 
 ## Australia 🇦🇺
-- [A Quick Guid to Australia's Penguins](https://www.australiangeographic.com.au/topics/wildlife/2018/04/a-quick-guide-to-australias-penguins/)
+- [A Quick Guide to Australia's Penguins](https://www.australiangeographic.com.au/topics/wildlife/2018/04/a-quick-guide-to-australias-penguins/)
 
 ## Falklands Islands 🇫🇰
 - [A Complete Guide to the Falkland Islands Penguins](https://www.lelongweekend.com/guide-falkland-islands-penguins/)
